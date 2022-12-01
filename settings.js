@@ -38,35 +38,36 @@ lolkey = '380f33983d5719bf2aaa441f'
 frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
-global.saweria = "https://saweria.co/xinxxz" // saweria donation
-global.groupwea = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4*" // saweria donation
-global.vcardowner = ['6285788653439', '6285338440313', '6283899515608'] //number
+global.saweria = "https://saweria.co/xylaa" // saweria donation
+global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
+global.vcardowner = ['6281368176386', '628388986298', '6283802603905'] //number
 global.allpay = "081338302495" // nomor pertama / first number donate
 global.allpay2 = "085338440313" // nomor ke dua /second number donate
-global.ownername = "xinzz" //owner
-global.email = "📧 xinzz@gmail.com" //email
-global.website = "⚙️ Github : RavensVenix" //github name
-global.location = "🌍 Isekai, Taman Hiburan Para Loli, Pemandian Umum Wanita" //location
+global.ownername = "⚘owner-sayang♱" //owner
+global.email = "📧 egabertoananta@gmail.com" //email
+global.website = "⚙️ Github : Doramisi1" //github name
+global.location = "🌍 Indonesia, Sumatra Utara, Medan" //location
 global.roblox = "👾 Roblox : @JustRyyXD" //roblox
-global.ig = "👑 Instagram : @xinzz" //insta
-global.tg = "💙 Telegram : @xinzz" //telegram
+global.ig = "👑 Instagram : @ravensvenix" //insta
+global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
-global.groupbot = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4*"
-global.owner = ['6285788653439', '6285338440313', '6283899515608']
-global.ownernomer = "6285788653439" //ur number
-global.ownernomer2 = "6285338440313" // second number
-global.ownernomer3 = "6285788653439" // stfu
-global.ownertag = '6285788653439', '6285788653439', '6283899515608' //ur tag number
-global.botname = 'XINZZ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4*" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/HAYyVgzio1gBTs3Haz3hZ4*" //ur website to be displayed
-global.botscript = 'https://github.com/RavensVenix/xinzz' //script link
-global.reactmoji = "⚡" //ur menu react emoji
-global.themeemoji = "⚡" //ur theme emoji
-global.packname = "XINZZ" //ur sticker watermark packname
-global.author = "XINZZ" //ur sticker watermark author
-global.wm = "☾X𒆜" //ur watermark
+global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
+global.owner = ['6281368176386', '628388986298', '6283802603905'
+]
+global.ownernomer = "6281368176386" //ur number
+global.ownernomer2 = "628388986298" // second number
+global.ownernomer3 = "6283802603905" // stfu
+global.ownertag = '6281368176386', '628388986298', '6283802603905' //ur tag number
+global.botname = '☾ghost-bot-v2' //ur bot name
+global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
+global.botscript = 'https://github.com/Doramisi1/elainav6' //script link
+global.reactmoji = "🦋" //ur menu react emoji
+global.themeemoji = "🦋" //ur theme emoji
+global.packname = "☾dibuat oleh\n\n\n\n\n\n\n\n\n\n\n• StickerPack " //ur sticker watermark packname
+global.author = "☾ghost-bot-v2" //ur sticker watermark author
+global.wm = "☾jangan di maling" //ur watermark
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/thumb.jpeg") //ur thumb pic
@@ -137,7 +138,7 @@ By using this bot, you agree to the following Terms and Conditions:
  • Permanent Block
  • Warnings
  Best regard, *${ownername}*.`)
-global.premium = ['6281338302495'] //ur premium numbers
+global.premium = ['6281368176386', '628388986298', '6283802603905'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -159,29 +160,29 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = true
+global.antitags = false
 global.prefa = ['','!','.','?','#','-','`','+','/']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'fitur khusus admin!',
+    botAdmin: 'bot harus admin',
+    owner: 'fitur khusus owner!',
+    group: 'hanya di group!',
+    private: 'hanya di chat pribadi!',
+    bot: 'fitur khusus bot',
+    wait: 'sedang di proses...',
+    linkm: 'link nya mana kak?',
     error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    endLimit: 'Batas Harian Anda Telah Habis, Batas Akan Direset Setiap 12 Jam',
+    ban: 'Anda telah diblokir oleh pemilik, jika Anda ingin dibatalkan, chat pemilik.',
+    nsfw: 'Fitur nsfw belum diaktifkan, silahkan hubungi admin untuk aktivasi',
+    banChat: 'Bot diblokir di grup ini, harap hubungi pemilik untuk membatalkan pemblokiran'
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: 1000,
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
