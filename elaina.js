@@ -24,9 +24,9 @@ console.log(`===================================================================
 =        ==        ==  ====  ==    ==  =======  ==  ====  =====  =======     ===
 ================================================================================`)
 sleep(2500)
-console.log(`Loading System...`)
+console.log(`Loading System`)
 sleep(1500)
-console.log(`Starting...`)
+console.log(`Starting`)
 var low
 try {
   low = require('lowdb')
