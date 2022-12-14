@@ -40,9 +40,9 @@ apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
 global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
-global.vcardowner = ['6281368176386', '628388986298', '6283802603905'] //number
-global.allpay = "081338302495" // nomor pertama / first number donate
-global.allpay2 = "085338440313" // nomor ke dua /second number donate
+global.vcardowner = ['6283849469400', '628388986298', '6283802603905'] //number
+global.allpay = "083849469400" // nomor pertama / first number donate
+global.allpay2 = "08388986298" // nomor ke dua /second number donate
 global.ownername = "⚘owner-sayang♱" //owner
 global.email = "📧 egabertoananta@gmail.com" //email
 global.website = "⚙️ Github : Doramisi1" //github name
@@ -53,12 +53,12 @@ global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
 global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
-global.owner = ['6281368176386', '628388986298', '6283802603905'
+global.owner = ['6283849469400', '628388986298', '6283802603905'
 ]
-global.ownernomer = "6281368176386" //ur number
+global.ownernomer = "6283849469400" //ur number
 global.ownernomer2 = "628388986298" // second number
 global.ownernomer3 = "6283802603905" // stfu
-global.ownertag = '6281368176386', '628388986298', '6283802603905' //ur tag number
+global.ownertag = '6283849469400', '628388986298', '6283802603905' //ur tag number
 global.botname = '☾ghost-bot-v2' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
