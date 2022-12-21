@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && npm start 
+RUN npm start 
 COPY . .
 
 CMD ["node", "."]
