@@ -5,7 +5,7 @@
   "main": "elaina.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node elaina.js"
+    "start": "npm i -g pm2 && pm2 start elaina.js && pm2 save && pm2 logs"
   },
   "keywords": [
     "termux",
@@ -71,7 +71,6 @@
     "util": "^0.12.4",
     "xfarr-api": "^1.0.2",
     "yargs": "^17.2.1",
-    "yt-search" : " ^2.10.2 "
   },
   "directories": {
     "lib": "lib",
