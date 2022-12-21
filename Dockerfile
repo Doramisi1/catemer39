@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm i -g pm2 && pm2 start elaina.js && pm2 save && pm2 logs
+RUN npm install && npm start 
 COPY . .
 
 CMD ["node", "."]
