@@ -39,7 +39,7 @@ frkey = 'kZgLGZbX'
 apidanz = '92b0a75k6f'
 ckey = 'xPxsaElx'
 global.saweria = "https://saweria.co/xylaa" // saweria donation
-global.groupwea = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" // saweria donation
+global.groupwea = "https://chat.whatsapp.com/JEQc02Qcozq04TwDxswbRQ" // saweria donation
 global.vcardowner = ['6283849469400', '628388986298', '6283802603905'] //number
 global.allpay = "083849469400" // nomor pertama / first number donate
 global.allpay2 = "08388986298" // nomor ke dua /second number donate
@@ -52,7 +52,7 @@ global.ig = "👑 Instagram : @ravensvenix" //insta
 global.tg = "💙 Telegram : @vmxone" //telegram
 
 //bot bomdy 
-global.groupbot = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3"
+global.groupbot = "https://chat.whatsapp.com/JEQc02Qcozq04TwDxswbRQ"
 global.owner = ['6283849469400', '628388986298', '6283802603905'
 ]
 global.ownernomer = "6283849469400" //ur number
@@ -60,8 +60,8 @@ global.ownernomer2 = "628388986298" // second number
 global.ownernomer3 = "6283802603905" // stfu
 global.ownertag = '6283849469400', '628388986298', '6283802603905' //ur tag number
 global.botname = '☾ghost-bot-v2' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/HGn7D3206uC94KKPOIG3f3" //ur website to be displayed
+global.linkz = "https://chat.whatsapp.com/JEQc02Qcozq04TwDxswbRQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/JEQc02Qcozq04TwDxswbRQ" //ur website to be displayed
 global.botscript = 'https://github.com/Doramisi1/elainav6' //script link
 global.reactmoji = "🦋" //ur menu react emoji
 global.themeemoji = "🦋" //ur theme emoji
@@ -185,12 +185,12 @@ global.mess = {
     monayawal: 10000
 }
    global.rpg = {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
-   potionawal: 1
+   darahawal: 200,
+   besiawal: 25,
+   goldawal: 20,
+   emeraldawal: 50,
+   umpanawal: 50,
+   potionawal: 10
 }
 global.thumb = fs.readFileSync('./XeonMedia/theme/thumb.jpeg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
