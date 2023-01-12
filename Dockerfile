@@ -8,10 +8,10 @@ RUN apt-get update && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
 
-RUN npm start
+COPY package.json .
+
+RUN node .
 
 COPY . .
-
-EXPOSE 5000
 
 CMD ["node", "index.js"]
