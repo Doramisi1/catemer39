@@ -10,8 +10,10 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN node .
+RUN yarn install 
 
 COPY . .
+
+EXPOSE 5000
 
 CMD ["node", "index.js"]
