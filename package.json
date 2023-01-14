@@ -85,8 +85,7 @@
     "tod-api" : " ^1.0.5 " ,
     "util" : " ^0.12.5 " ,
     "xfarr-api" : " ^1.0.2 " ,
-    "yargs" : " ^17.2.1 " ,
-    "ytdl-core" : " ^4.11.2 "
+    "yargs" : " ^17.2.1 "
   },
   "direktori" : {
     "lib" : " lib " ,
